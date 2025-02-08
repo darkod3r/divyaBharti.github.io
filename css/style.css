@@ -7779,6 +7779,17 @@ button.bg-dark:focus {
   padding-top: 0.5rem !important;
 }
 
+.more-text {
+  display: none;  /* Initially hidden */
+}
+
+.read-more-btn {
+  color: blue;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 .pr-2,
 .px-2 {
   padding-right: 0.5rem !important;
